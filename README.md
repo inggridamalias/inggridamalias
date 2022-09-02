@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate as Bussiness Analyst
 - 🤔 I’m looking for suggest for Bussiness Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me:inggridamalias99@gmail.com
+- 📫 How to reach me: inggridamalias99@gmail.com
 
 ## Education:
 
