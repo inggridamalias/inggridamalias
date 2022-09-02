@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there, I'm Inggrid - aka [inggridamalias](https://www.youtube.com/channel/UCjH1EGxfX4LH9UuIF4cBg6w) 👋
+## About me:
+- 🌱 I’m currently learning Dart
+- 👯 I’m looking to collaborate as Bussiness Analyst
+- 🤔 I’m looking for suggest for Bussiness Analyst
+- 💬 Ask me about anything
+- 📫 How to reach me:inggridamalias99@gmail.com
 
-<!--
-**inggridamalias/inggridamalias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Politeknik Negeri Jember](https://polije.ac.id/) | Student of Informatics Engineering | Jember `2020-2024`
+   
+ #### 2. [SMA Negeri Kalisat](https://web.smakalisat.com/) | MIPA | Jember `2017-2020`
+   - General Secretary of OSMAN 18-19
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[<img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java" width="30px" src="https://proxsisgroup.com/wp-content/uploads/2019/08/104-1040733_kotlin-java-programming-language-logo-clipart-1024x598.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+---
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjH1EGxfX4LH9UuIF4cBg6w-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjH1EGxfX4LH9UuIF4cBg6w-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/inggrid_amalias-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/inggrid_amalias-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/inggrid-amalia-sabrina-a74b991b5/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/inggrid-amalia-sabrina-a74b991b5/-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/inggrid_amalias/-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/inggrid_amalias/-dark-mode-only)
+
+
