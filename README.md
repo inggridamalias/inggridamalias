@@ -1,4 +1,4 @@
-# Hi there, I'm Inggrid - aka [inggridamalias](https://www.youtube.com/channel/UCjH1EGxfX4LH9UuIF4cBg6w) 👋
+# Hi there, I'm Inggrid - [inggridamalias](https://www.youtube.com/channel/UCjH1EGxfX4LH9UuIF4cBg6w) 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/inggridamalias/badges/large"/><br /><br />
@@ -8,7 +8,7 @@
 </p>
 
 ## About me:
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Dart
 - 👯 I’m looking to collaborate as Bussiness Analyst
 - 🤔 I’m looking for suggest for Bussiness Analyst
 - 💬 Ask me about anything
