@@ -8,9 +8,7 @@
 </p>
 
 ## About me:
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Dart
-- 👯 I’m looking to collaborate as Bussiness Analyst
-- 🤔 I’m looking for suggest for Bussiness Analyst
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Dart
 - 💬 Ask me about anything
 - 📫 How to reach me: inggridamalias99@gmail.com
 
