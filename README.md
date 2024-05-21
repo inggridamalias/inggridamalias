@@ -8,7 +8,7 @@
 </p>
 
 ## About me:
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Dart
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, PHP, Dart
 - 💬 Ask me about anything
 - 📫 How to reach me: inggridamalias99@gmail.com
 
